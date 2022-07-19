@@ -2,6 +2,6 @@ import { parseInt } from '.';
 
 describe('parseInt', () => {
   it('', () => {
-    expect(parseInt()).toEqual('');
+    expect(parseInt('0')).toEqual(0);
   });
 });

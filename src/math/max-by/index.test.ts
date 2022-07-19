@@ -1,7 +1,7 @@
-import max from '.';
+import { maxBy } from '.';
 
-describe('max', () => {
+describe('maxBy', () => {
   it('', () => {
-    expect(max([1])).toEqual(1);
+    expect(maxBy([1])).toEqual(0);
   });
 });

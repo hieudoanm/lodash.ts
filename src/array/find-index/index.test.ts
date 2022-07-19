@@ -1,7 +1,7 @@
-import findIndex from '.';
+import { findIndex } from '.';
 
 describe('findIndex', () => {
   it('', () => {
-    expect(findIndex()).toEqual([]);
+    expect(findIndex()).toEqual(0);
   });
 });

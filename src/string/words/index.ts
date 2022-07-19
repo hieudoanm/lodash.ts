@@ -1,5 +1,5 @@
 export const words = () => {
-  return;
+  return '';
 };
 
 export default words;

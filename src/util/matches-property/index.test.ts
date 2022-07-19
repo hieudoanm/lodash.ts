@@ -1,7 +1,7 @@
-import after from '.';
+import { matchesProperty } from '.';
 
-describe('function', () => {
+describe('matchesProperty', () => {
   it('', () => {
-    expect(after()).toEqual(undefined);
+    expect(matchesProperty()).toEqual(undefined);
   });
 });

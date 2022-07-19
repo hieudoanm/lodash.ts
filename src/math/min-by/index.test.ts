@@ -1,7 +1,7 @@
-import meanBy from '.';
+import { minBy } from '.';
 
-describe('meanBy', () => {
+describe('minBy', () => {
   it('', () => {
-    expect(meanBy([1])).toEqual(0);
+    expect(minBy([1])).toEqual(1);
   });
 });

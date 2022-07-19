@@ -1,5 +1,5 @@
-export const parseInt = (): number => {
-  return 0;
+export const parseInt = (string: string): number => {
+  return Number.parseInt(string);
 };
 
 export default parseInt;

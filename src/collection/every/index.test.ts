@@ -1,7 +1,7 @@
-import after from '.';
+import { every } from '.';
 
-describe('function', () => {
+describe('every', () => {
   it('', () => {
-    expect(after()).toEqual(undefined);
+    expect(every()).toEqual(false);
   });
 });

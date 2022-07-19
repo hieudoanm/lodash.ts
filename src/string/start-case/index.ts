@@ -1,5 +1,5 @@
 export const startCase = () => {
-  return;
+  return '';
 };
 
 export default startCase;

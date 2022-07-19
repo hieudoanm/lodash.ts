@@ -1,5 +1,5 @@
 export const split = () => {
-  return;
+  return '';
 };
 
 export default split;

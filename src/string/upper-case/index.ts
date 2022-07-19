@@ -1,5 +1,5 @@
 export const upperCase = () => {
-  return;
+  return '';
 };
 
 export default upperCase;

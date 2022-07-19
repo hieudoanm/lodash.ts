@@ -1,3 +1,3 @@
 export const unescape = () => {
-  return;
+  return '';
 };

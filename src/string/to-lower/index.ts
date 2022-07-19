@@ -1,5 +1,5 @@
 export const toLower = () => {
-  return;
+  return '';
 };
 
 export default toLower;

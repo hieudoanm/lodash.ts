@@ -1,5 +1,5 @@
 export const trimEnd = () => {
-  return;
+  return '';
 };
 
 export default trimEnd;

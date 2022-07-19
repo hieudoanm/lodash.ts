@@ -1,7 +1,7 @@
-import cloneDeep from '.';
+import { toString } from '.';
 
-describe('cloneDeep', () => {
+describe('toString', () => {
   it('', () => {
-    expect(cloneDeep()).toEqual(undefined);
+    expect(toString(1)).toEqual('');
   });
 });

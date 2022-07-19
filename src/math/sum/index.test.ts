@@ -1,7 +1,7 @@
-import meanBy from '.';
+import { sum } from '.';
 
-describe('meanBy', () => {
+describe('sum', () => {
   it('', () => {
-    expect(meanBy([6, 4])).toEqual(2);
+    expect(sum([6, 4])).toEqual(10);
   });
 });

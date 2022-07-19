@@ -1,7 +1,7 @@
-import after from '.';
+import { filter } from '.';
 
-describe('function', () => {
+describe('filter', () => {
   it('', () => {
-    expect(after()).toEqual(undefined);
+    expect(filter()).toEqual([]);
   });
 });

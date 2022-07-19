@@ -1,5 +1,5 @@
 export const min = (array: Array<number>): number => {
-  return Math.max(...array);
+  return Math.min(...array);
 };
 
 export default min;

@@ -1,5 +1,5 @@
 export const trimStart = () => {
-  return;
+  return '';
 };
 
 export default trimStart;

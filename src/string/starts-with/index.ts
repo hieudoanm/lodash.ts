@@ -1,5 +1,5 @@
 export const startsWith = () => {
-  return;
+  return '';
 };
 
 export default startsWith;

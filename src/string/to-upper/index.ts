@@ -1,5 +1,5 @@
 export const toUpper = () => {
-  return;
+  return '';
 };
 
 export default toUpper;

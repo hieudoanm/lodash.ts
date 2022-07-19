@@ -1,5 +1,5 @@
 export const snakeCase = () => {
-  return;
+  return '';
 };
 
 export default snakeCase;

@@ -1,5 +1,5 @@
 export const upperFirst = () => {
-  return;
+  return '';
 };
 
 export default upperFirst;

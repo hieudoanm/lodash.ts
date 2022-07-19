@@ -1,5 +1,5 @@
 export const template = () => {
-  return;
+  return '';
 };
 
 export default template;

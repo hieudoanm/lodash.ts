@@ -1,5 +1,5 @@
 export const replace = () => {
-  return;
+  return '';
 };
 
 export default replace;

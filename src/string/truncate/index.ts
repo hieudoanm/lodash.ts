@@ -1,5 +1,5 @@
 export const truncate = () => {
-  return;
+  return '';
 };
 
 export default truncate;

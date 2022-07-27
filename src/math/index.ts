@@ -1,0 +1,15 @@
+export { add } from './add';
+export { ceil } from './ceil';
+export { divide } from './divide';
+export { floor } from './floor';
+export { max } from './max';
+export { maxBy } from './max-by';
+export { mean } from './mean';
+export { meanBy } from './mean-by';
+export { min } from './min';
+export { minBy } from './min-by';
+export { multiply } from './multiply';
+export { round } from './round';
+export { subtract } from './subtract';
+export { sum } from './sum';
+export { sumBy } from './sum-by';
